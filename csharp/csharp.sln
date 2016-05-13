@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram", "anagram\anagram.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hamming", "hamming\hamming.csproj", "{81C38EE3-6C6A-452F-9FCC-88C9FB726727}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word-count", "word-count\word-count.csproj", "{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
