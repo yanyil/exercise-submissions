@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etl", "etl\etl.csproj", "{3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagram", "anagram\anagram.csproj", "{753E0D96-2E62-4A03-AA60-539FC99EA3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hamming", "hamming\hamming.csproj", "{81C38EE3-6C6A-452F-9FCC-88C9FB726727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{753E0D96-2E62-4A03-AA60-539FC99EA3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{753E0D96-2E62-4A03-AA60-539FC99EA3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{753E0D96-2E62-4A03-AA60-539FC99EA3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C38EE3-6C6A-452F-9FCC-88C9FB726727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C38EE3-6C6A-452F-9FCC-88C9FB726727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C38EE3-6C6A-452F-9FCC-88C9FB726727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C38EE3-6C6A-452F-9FCC-88C9FB726727}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9298D08-41FF-4C5C-A093-E41D180696B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
