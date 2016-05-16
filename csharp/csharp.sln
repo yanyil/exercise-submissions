@@ -19,12 +19,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade-school", "grade-schoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nucleotide-count", "nucleotide-count\nucleotide-count.csproj", "{AA8C6CAA-F018-4A72-A690-1160FD18C616}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phone-number", "phone-number\phone-number.csproj", "{0103E40E-D6A9-4407-90E6-FBDC6AA1824F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0103E40E-D6A9-4407-90E6-FBDC6AA1824F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0103E40E-D6A9-4407-90E6-FBDC6AA1824F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0103E40E-D6A9-4407-90E6-FBDC6AA1824F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0103E40E-D6A9-4407-90E6-FBDC6AA1824F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
