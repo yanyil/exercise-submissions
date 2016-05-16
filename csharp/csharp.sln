@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hamming", "hamming\hamming.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "word-count", "word-count\word-count.csproj", "{C636CDBF-A35B-4A42-81CE-E041D20C1BCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade-school", "grade-school\grade-school.csproj", "{1E5BEB04-5EE3-4567-8D73-A39FF7EF1A7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B48A305-B760-4173-BD80-2F1F3B978DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5BEB04-5EE3-4567-8D73-A39FF7EF1A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5BEB04-5EE3-4567-8D73-A39FF7EF1A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5BEB04-5EE3-4567-8D73-A39FF7EF1A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5BEB04-5EE3-4567-8D73-A39FF7EF1A7B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32C83C0E-4EA3-496F-A414-903F983130EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32C83C0E-4EA3-496F-A414-903F983130EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C83C0E-4EA3-496F-A414-903F983130EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
